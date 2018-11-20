@@ -1,0 +1,5 @@
+[
+  "test/index_test.py::BlockTest::test_bip141",
+  "test/index_test.py::BlockTest::test_bip9",
+  "test/index_test.py::BlockTest::test_bip91"
+]
